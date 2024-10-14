@@ -3,4 +3,4 @@
 
 https://www.kaggle.com/datasets/fareselmenshawii/face-detection-dataset/data
 
-![Beschreibung des Bildes](dataset-cover.jpg)
+![Beschreibung des Bildes](images/dataset-cover.jpg)
